@@ -4,7 +4,7 @@ int val = 0;
 int buttonPin = D4;
 int buttonPressed = 0;
 
-#define DELAY_TIME 300
+#define DELAY_TIME 300000
  
 
 void setup() 
